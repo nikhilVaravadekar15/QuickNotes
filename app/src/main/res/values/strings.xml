@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuickNotes</string>
+
+    <string name="my_notes">MY NOTES</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Title</string>
+    <string name="note_subtitle">Subtitle</string>
+    <string name="type_a_note">Type a note…</string>
+    <string name="text_miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_urlLink">Add URL</string>
+    <string name="enter_url">Enter URl</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="confirmation_text">Are you sure you want to delete the Note?</string>
+
+
+</resources>

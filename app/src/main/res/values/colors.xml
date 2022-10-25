@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ffffff</color>
+    <color name="purple_500">#000000</color>
+    <color name="purple_700">#292929</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_50">#CDE0E3</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorPrimary">#292929</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#FDBE38</color>
+
+    <color name="colorSearchIcon">#BDBDBD</color>
+    <color name="colorTextHint">#787878</color>
+    <color name="colorQuickActionBackground">#2F2D2E</color>
+    <color name="colorIcons">#A4A4A4</color>
+    <color name="colorTextSubtitle">#CECECE</color>
+
+    <color name="colorDefaultNoteColor">#333333</color>
+    <color name="colorNoteSubmitText">#FAFAFA</color>
+    <color name="colorMiscellaneousBackground">#0E0E0E</color>
+    <color name="colorNoteColor2">#EBC77B</color>
+    <color name="colorNoteColor3">#BE8584</color>
+    <color name="colorNoteColor4">#8892D9</color>
+    <color name="colorNoteColor5">#8D7CAD</color>
+    <color name="colorDelete">#9D4341</color>
+    <color name="colorDeleteText">#FFCDD2</color>
+    <color name="colorSearchBackground">#333333</color>
+
+    <color name="yellow">#FDBE38</color>
+
+</resources>
